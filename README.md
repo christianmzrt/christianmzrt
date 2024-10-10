@@ -1,16 +1,24 @@
-## Hi there 👋
+# Richard Christian Mozart Diazoni 🎓
 
-<!--
-**christianmzrt/christianmzrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I'm **Richard**, a passionate **Computer Science** student at **Udayana University**. Currently focused on **Artificial Intelligence 🤖** and **Cybersecurity 🔐**. I'm always eager to learn and improve, especially in **C/C++ programming 💻**.
 
-Here are some ideas to get you started:
+## 🎵 Hobbies
+- Playing musical instruments 🎸
+- Gaming 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Motto
+> "Failure is not an obstacle, but the key to success, just like a Syntax Error in a program. 🔑"
+
+## 🛠️ Skills
+- Currently learning **C/C++** programming 🔧
+
+## 🚀 Goals
+My long-term aspiration is to become a **Software Engineer 👨‍💻** and **Cybersecurity Expert 🛡️**, combining my skills to build secure and innovative technology solutions.
+
+## 📱 Connect with me
+- Instagram: [@mr.mojarella](https://www.instagram.com/mr.mojarella)
+
+---
+
+🌟 *Let's connect and continue learning together on this exciting tech journey!* 🌟
